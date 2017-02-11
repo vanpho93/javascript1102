@@ -1,3 +1,3 @@
 var sq = num => console.log('Binh phuong: ' + num*num)
 
-setTimeout(() => sq(10), 500);
+// setTimeout(() => sq(10), 500);
